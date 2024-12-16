@@ -1,0 +1,16 @@
+<Nbextensions>
+주피터 노트북 확장 프로그램 - 실행시간 표시, 목차 생성 등의 편리한 기능 제공
+설치 방법
+1.주피터 노트북 또는 아나콘다 프롬프트에서 아래 코드 입력.
+pip install jupyter_nbextensions_configurator jupyter_contrib_nbextensions
+
+2.확장프로그램을 주피터 노트북과 연결, 주피터 노트북 또는 아나콘다 프롬프트에서 아래 코드 입력.
+!jupyter contrib nbextension install --user
+!jupyter nbextensions_configurator enable --user
+
+설치를 마치게 되면 위와 같이 네 번째 탭이 생성된다.
+이 중 Execute Time으로 실행 시간 확인과 Table of Contents 체크-> 마크 다운 목차 생성
+
+
+<주피터 노트북 테마 설정 변경>
+https://realblack0.github.io/2020/05/13/jupyter-notebook-themes.html##jupyter-theme-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%84%A4%EC%B9%98

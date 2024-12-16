@@ -1,0 +1,6 @@
+파이썬 튜토리얼 및 문제 관련 사이트
+
+https://homzzang.com/b/py
+https://codeup.kr/
+https://python-course.eu/python-tutorial/for-loop.php
+https://www.geeksforgeeks.org/python-programming-language/?ref=shm
